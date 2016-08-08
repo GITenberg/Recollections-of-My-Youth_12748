@@ -1,0 +1,33 @@
+_repo: Recollections-of-My-Youth_12748
+_version: 0.0.1
+alternative_title: Souvenirs d'enfance et de jeunesse. English
+creator:
+  author:
+    agent_name: Renan, Ernest
+    aliases:
+    - Renan, Ernestos
+    - Renan, Joseph Ernest
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '4527'
+    url: http://www.gutenberg.org/2009/agents/4527
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Renan
+description: A leading French scholar tells of his extraordinary life in this 1883
+  memoir. Born to a family of fishermen, Renan was educated at the ecclesiastical
+  seminary in his home town; developed a questioning mind and a passion for philosophy,
+  Catholicism, and mathematics; helped define the modern notion of nationhood; and
+  published his controversial Life of Jesus .
+gutenberg_issued: '2004-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renan, Ernest, 1823-1892'
+- !lcc 'PQ'
+- GITenberg
+title: Recollections of My Youth
+url: http://www.gutenberg.org/ebooks/12748
