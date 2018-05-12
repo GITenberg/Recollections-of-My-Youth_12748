@@ -1,6 +1,9 @@
 _repo: Recollections-of-My-Youth_12748
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Souvenirs d'enfance et de jeunesse. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Renan, Ernest
@@ -17,6 +20,8 @@ description: A leading French scholar tells of his extraordinary life in this 18
   seminary in his home town; developed a questioning mind and a passion for philosophy,
   Catholicism, and mathematics; helped define the modern notion of nationhood; and
   published his controversial Life of Jesus .
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12748#Recollections-of-My-Youth
 gutenberg_issued: '2004-06-26'
 gutenberg_type: Text
 identifiers:
